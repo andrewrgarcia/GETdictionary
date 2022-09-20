@@ -1,6 +1,7 @@
 .vscode
+jason.js
 
 # c++ extensions
 *.k
-*.h
-*.cpp
+#*.h
+#*.cpp
